@@ -1,0 +1,10 @@
+{
+	"name": "daida-local",
+	"version": "0.0.1",
+	"main": "./lib/local.js",
+	"description": "Local event loop based persistence and worker plugin for the daida scheduler library",
+	"engines": {
+		"node": "*"
+	},
+	"keywords": ["job", "scheduler", "daida"]
+}
